@@ -1,0 +1,33 @@
+
+.open-sans-mormal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:normal;
+  font-style:normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 65px;
+    
+}
+.nav-title{
+    color:#4E47FF ;
+    font-size: 45px;
+}
+.pra-title{
+    padding: 65px;
+}
+.btn-primary{
+    font-weight: 700;
+    padding: 18px 35px;
+    font-size: 17px;
+    color:white;
+    background-color: #4E47FF;
+    border: none;
+    border-radius: 5px;
+
+    
+}
