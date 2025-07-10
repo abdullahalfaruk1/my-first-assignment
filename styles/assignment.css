@@ -154,3 +154,19 @@ input[type="submit"]{
     gap: 60px;
     font-size: 25px;
 }
+.footer-style{
+     color:#4E47FF ;
+    font-size: 85px;
+    max-width: 230px;
+    margin: 0 auto;
+}
+.last-footer{
+    display: flex;
+    gap: 50px;
+    padding: 30px 30px;
+}
+.style-footer{
+    max-width: 500px;
+    margin: 0 auto;
+}
+
