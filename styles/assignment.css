@@ -169,8 +169,4 @@ input[type="submit"]{
     max-width: 500px;
     margin: 0 auto;
 }
-button: hover .stars{
-    display:block;
-    filter:drop-shadow(0 0 10px)
-}
 
