@@ -30,6 +30,7 @@ nav{
     }
     .header-secondary-bg{
         background-image: url(../picture/Assets/Hero-bg.png);
+        height: 700px;
        
     }
   
@@ -42,7 +43,7 @@ nav{
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin: 4px 2px;
+  margin: 0 auto;
   transition-duration: 0.4s;
   cursor: pointer;
   border-radius: 8px;
@@ -169,6 +170,7 @@ input[type="submit"]{
     font-size: 85px;
     max-width: 230px;
     margin: 0 auto;
+    
 }
 .last-footer{
     display: flex;
@@ -178,5 +180,8 @@ input[type="submit"]{
 .style-footer{
     max-width: 500px;
     margin: 0 auto;
+    background-color: ;
 }
+
+
 
